@@ -1,7 +1,7 @@
 [![MasterHead](https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif)](https://shreyanshtrigunayat.io)
 
 <h1 align="center">Hi 👋, I'm Shreyansh Trigunayat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> “Learning to code is useful no matter what your career ambitions are.” </h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/images/ba6d7d37fa1e4ca966ac7328bf43b96c/tenor.gif?itemid=18657810">
 
 
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/shreyansh_t" target="blank"><img src="https://img.shields.io/twitter/follow/shreyansh_t?logo=twitter&style=for-the-badge" alt="shreyansh_t" /></a> </p>
 
-- 🌱 I’m currently learning ** C++ with DSA
+- 🌱 I’m currently learning  **C++ with DSA**
 
 - 💬 Ask me about **C++**
 

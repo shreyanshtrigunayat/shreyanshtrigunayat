@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/shreyansh_t" target="blank"><img src="https://img.shields.io/twitter/follow/shreyansh_t?logo=twitter&style=for-the-badge" alt="shreyansh_t" /></a> </p>
 
-- 🌱 I’m currently learning **Java With DSA**
+- 🌱 I’m currently learning ** C++ with DSA
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **C++**
 
 - 📫 How to reach me **shreyanshtrigunayat@gmail.com**
 

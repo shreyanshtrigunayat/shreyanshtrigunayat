@@ -1,4 +1,4 @@
-[![MasterHead](https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif)(https://shreyanshtrigunayat.io)]
+[![MasterHead](https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif)](https://shreyanshtrigunayat.io)
 
 <h1 align="center">Hi 👋, I'm Shreyansh Trigunayat</h1>
 <h3 align="center"> “Learning to code is useful no matter what your career ambitions are.” </h3>
